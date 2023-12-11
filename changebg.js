@@ -1,6 +1,6 @@
 var bg = [
-    './assets/images/bg1.png',
-    './assets/images/bg2.jpg',
+    'bg1.png',
+    'bg2.jpg',
   ];
   let currentBgIndex = 0;
   

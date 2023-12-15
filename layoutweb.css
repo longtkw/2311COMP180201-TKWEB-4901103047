@@ -19,7 +19,7 @@ header .container .row .col-6 p{
     font-weight: 700;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
-    background: url(Image/bg.jpg);
+    background: url(bg.jpg);
     background-size: cover;
     background-position: center;
     background-clip: text;
